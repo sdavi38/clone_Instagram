@@ -5,9 +5,9 @@
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Css3](https://devdocs.io/css/)
-- [React Native](https://reactnative.dev/)
 - [VS Code](https://code.visualstudio.com/) 
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+- [Css3](https://devdocs.io/css/)
 
 ## :books: Requisitos
 - Ter [**Git**](https://git-scm.com/) para clonar o projeto.
@@ -22,4 +22,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
   $ cd app/index.html 
 
 
-Feito com ❤️ por David Bernardo 👋🏻 [Get in touch!](https://github.com/sdavi38)
+Feito com por David Bernardo 👋🏻 [Get in touch!](https://github.com/sdavi38)
