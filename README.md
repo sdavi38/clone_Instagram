@@ -16,7 +16,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## :rocket: Começando
 ``` bash
   # Clonar o projeto:
-  $ https://github.com/MatheusPires99/pokedex
+  $ https://github.com/sdavi38/clone_Instagram.git
 
   # Entrar no diretório:
   $ cd app/index.html 
