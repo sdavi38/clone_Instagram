@@ -20,3 +20,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
   # Entrar no diretório:
   $ cd app/index.html 
+
+
+Feito com ❤️ por David Bernardo 👋🏻 [Get in touch!](https://github.com/sdavi38)
